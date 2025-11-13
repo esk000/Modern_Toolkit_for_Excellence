@@ -1,6 +1,7 @@
 # Modern Toolkit for Excellence
 
 This repository hosts a small static website for the paper and media assets. It is designed to be published via GitHub Pages with no build step.
+The Paper presents a practical, data-backed framework for modern business excellence that integrates reverse-engineering methods, scalable AI architectures, lifelong learning, AI-enabled productivity, and strategic networking. It combines structured methodologies with case studies and measurable outcomes, referencing research from McKinsey, PwC, Statista, NBER, LinkedIn, and industry practice.
 
 ## Live Site
 - Base URL: `https://esk000.github.io/Modern_Toolkit_for_Excellence/`
