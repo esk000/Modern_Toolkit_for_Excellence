@@ -1,4 +1,4 @@
-# Modern Toolkit for Excellence — Static Site
+# Modern Toolkit for Excellence
 
 This repository hosts a small static website for the paper and media assets. It is designed to be published via GitHub Pages with no build step.
 
@@ -13,6 +13,3 @@ This repository hosts a small static website for the paper and media assets. It 
 - `[Paper]Reverse Engineering and AI for Business Excellence.m4a`
 - `Modern_Toolkit_for_Excellence.mp4`
 - `.nojekyll` — Disables Jekyll processing so static files are served as-is
-
-## Publish via GitHub Pages
-URL: https://esk000.github.io/Modern_Toolkit_for_Excellence/
